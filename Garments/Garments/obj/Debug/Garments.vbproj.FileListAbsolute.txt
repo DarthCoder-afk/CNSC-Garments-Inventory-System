@@ -1,0 +1,112 @@
+c:\users\pokong andoy\documents\visual studio 2013\Projects\Garments\Garments\bin\Debug\Garments.exe.config
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\obj\Debug\Garments.vbprojResolveAssemblyReference.cache
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\obj\Debug\Garments.Students.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\obj\Debug\Garments.Resources.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\obj\Debug\Garments.vbproj.GenerateResource.Cache
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\bin\Debug\Garments.exe
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\bin\Debug\Garments.pdb
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\bin\Debug\Garments.xml
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\bin\Debug\MySql.Data.DLL
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\obj\Debug\Garments.exe
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\obj\Debug\Garments.xml
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\obj\Debug\Garments.pdb
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\obj\Debug\Garments.Products.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\obj\Debug\Garments.Garments_Whole.resources
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.exe.config
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.exe
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.xml
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.pdb
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.exe
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.pdb
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.xml
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.vbprojResolveAssemblyReference.cache
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Garments_Whole.resources
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Products.resources
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Students.resources
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Resources.resources
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.vbproj.GenerateResource.Cache
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Cashier.resources
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Supplier.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\bin\Debug\Garments.exe.config
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.exe
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.xml
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.pdb
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\bin\Debug\Garments.exe
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\bin\Debug\Garments.pdb
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\bin\Debug\Garments.xml
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.vbprojResolveAssemblyReference.cache
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.Cashier.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.Garments_Whole.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.Products.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.Students.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.Resources.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.Supplier.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.vbproj.GenerateResource.Cache
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.Staff.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.Purchase.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.Pays.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\Garments\obj\Debug\Garments.Checks.resources
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Checks.resources
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Pays.resources
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Purchase.resources
+C:\Users\ICS\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Staff.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.exe.config
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.exe
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.xml
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.pdb
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.exe
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.pdb
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.xml
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.vbprojResolveAssemblyReference.cache
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Cashier.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Checks.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Garments_Whole.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Pays.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Products.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Purchase.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Staff.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Students.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Resources.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Supplier.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.vbproj.GenerateResource.Cache
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Supplies1.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.exe.config
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.exe
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.xml
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.pdb
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.exe
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.pdb
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\bin\Debug\Garments.xml
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.vbprojResolveAssemblyReference.cache
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Cashier.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Checks.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Garments_Whole.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Pays.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Products.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Purchase.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Staff.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Students.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Resources.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Supplier.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.Supplies1.resources
+C:\Users\xenia\Documents\Visual Studio 2013\Projects\Garments\Garments\Garments\obj\Debug\Garments.vbproj.GenerateResource.Cache
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\bin\Debug\Garments.exe.config
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.exe
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.xml
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.pdb
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\bin\Debug\Garments.exe
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\bin\Debug\Garments.pdb
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\bin\Debug\Garments.xml
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.vbprojResolveAssemblyReference.cache
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.Cashier.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.Checks.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.Garments_Whole.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.Pays.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.Products.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.Purchase.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.Staff.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.Students.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.Resources.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.Supplier.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.Supplies1.resources
+C:\Users\Pokong Andoy\Documents\Visual Studio 2013\Projects\Garments (1)\Garments\Garments\obj\Debug\Garments.vbproj.GenerateResource.Cache
